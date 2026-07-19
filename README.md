@@ -59,7 +59,7 @@ Millions of women struggle with menopause symptoms like fatigue, mood changes, a
 
 ```bash
 # Clone the repository
-git [clone https://github.com/your-username/menopause-predictor.git](https://github.com/sarayoussef2021/menopause.git)
+git clone https://github.com/sarayoussef2021/menopause-predictor.git
 cd menopause-predictor
 
 # Install dependencies
