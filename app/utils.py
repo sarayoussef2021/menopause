@@ -104,7 +104,7 @@ Here are her key health data:
 The factors that most influenced this prediction (with their SHAP contribution) are:
 {', '.join([f"{feat} ({val:.2f})" for feat, val in top_features])}
 
-Please provide a clear, reassuring, and easy-to-understand explanation in French for the patient.
+Please provide a clear, reassuring, and easy-to-understand explanation in English for the patient.
 Explain why these factors led to this stage, and give practical tips to help her manage this phase (without replacing medical advice).
 Be empathetic and base your answer on general medical knowledge.
 """
